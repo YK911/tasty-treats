@@ -1,3 +1,9 @@
+# References
+
+[Figma](https://www.figma.com/design/DfLTK1bjDwKKxkEJ1FTyFF/TastyTreats?m=auto&t=wLAB4DqJ0JozZ3Ht-6)
+
+[Task requirement](https://docs.google.com/spreadsheets/d/18AiL3Qi3EPQ-0-WW5roQ5va287xnO_d1721FsaQZO6c/edit?usp=sharing)
+
 # Vanilla App Template
 
 Цей проект було створено за допомогою Vite. Для знайомства та налаштування
